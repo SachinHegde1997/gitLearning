@@ -15,4 +15,6 @@ for($i = 0; $i < strlen($str1); )
 
 echo 'OUTPUT 1 : '.$str1."\n";
 echo 'OUTPUT 2 : '.$str2;
+echo 'OUTPUT 3 : '.$str2;
+echo 'OUTPUT 3 : '.$str2;
 ?>
